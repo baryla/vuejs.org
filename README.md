@@ -44,19 +44,19 @@ Tłumaczenie utrzymywane przez [1950Labs](https://1950labs.com) & [Vue.js Montev
 
 * Repozytorium tłumaczenia - [/1950Labs/vuejs.org](https://github.com/1950Labs/vuejs.org)
 * Główni opiekunowie:
-- [Leonel More](https://github.com/leonelmore) | [Twitter](https://twitter.com/leonelmore)
-- [Sebastián Camacho](https://github.com/sxcamacho) | [Twitter](https://twitter.com/sxcamacho)
-- [Diana Rodríguez](https://github.com/alphacentauri82) | [Twitter](https://twitter.com/cotufa82)
-- [Alejandro Parada](https://github.com/alejandro8605)
-- [José Javier Señaris](https://github.com/pepesenaris) | [Twitter](https://twitter.com/pepesenaris)
-- [Federico Kauffman](https://github.com/fedekau) | [Twitter](https://twitter.com/fedekauffman)
-- [Fabián Larrañaga](https://github.com/FLarra) | [Twitter](https://twitter.com/FLarraa)
-- [Pablo Marcano](https://github.com/Pablosky12) | [Twitter](https://twitter.com/stiv_ml)
-- [Nicolás Tinte](https://github.com/Tintef) | [Twitter](https://twitter.com/NicoTinte)
-- [Diego Barreiro](https://github.com/faliure)
-- [Matías Verdier](https://github.com/MatiasVerdier) | [Twitter](https://twitter.com/matiasvj)
-- [Pablo Kz](https://github.com/pabloKz)
-- [Leonardo Fagundez](https://github.com/lfgdzdev) | [Twitter](https://twitter.com/Lfgdz)
+    * [Leonel More](https://github.com/leonelmore) | [Twitter](https://twitter.com/leonelmore)
+    * [Sebastián Camacho](https://github.com/sxcamacho) | [Twitter](https://twitter.com/sxcamacho)
+    * [Diana Rodríguez](https://github.com/alphacentauri82) | [Twitter](https://twitter.com/cotufa82)
+    * [Alejandro Parada](https://github.com/alejandro8605)
+    * [José Javier Señaris](https://github.com/pepesenaris) | [Twitter](https://twitter.com/pepesenaris)
+    * [Federico Kauffman](https://github.com/fedekau) | [Twitter](https://twitter.com/fedekauffman)
+    * [Fabián Larrañaga](https://github.com/FLarra) | [Twitter](https://twitter.com/FLarraa)
+    * [Pablo Marcano](https://github.com/Pablosky12) | [Twitter](https://twitter.com/stiv_ml)
+    * [Nicolás Tinte](https://github.com/Tintef) | [Twitter](https://twitter.com/NicoTinte)
+    * [Diego Barreiro](https://github.com/faliure)
+    * [Matías Verdier](https://github.com/MatiasVerdier) | [Twitter](https://twitter.com/matiasvj)
+    * [Pablo Kz](https://github.com/pabloKz)
+    * [Leonardo Fagundez](https://github.com/lfgdzdev) | [Twitter](https://twitter.com/Lfgdz)
 
 ### Japoński
 
@@ -65,9 +65,9 @@ Japońskie tłumaczenie utrzymywane jest przez [Vue.js japan user group](https:/
 * Repozytorium tłumaczenia - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
 * Główny opiekun - [kazupon](https://github.com/kazupon)
 * Pozostali opiekunowie:
-- [re-fort](https://github.com/re-fort)
-- [potato4d](https://github.com/potato4d)
-- [oohira](https://github.com/oohira)	
+    * [re-fort](https://github.com/re-fort)
+    * [potato4d](https://github.com/potato4d)
+    * [oohira](https://github.com/oohira)	
 
 ### Koreański
 
