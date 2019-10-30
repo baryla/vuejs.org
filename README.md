@@ -1,95 +1,49 @@
 ﻿# vuejs.org
 
-This site is built with [hexo](http://hexo.io/). Site content is written in Markdown format located in `src`. Pull requests welcome!
+Niniejsza strona została zbudowana w oparciu o [hexo](http://hexo.io/). Zawartość strony zapisywana jest w formacie Markdown w plikach umieszczonych w `src`. Prośby o ściągnięcie są mile widziane!
 
-## Writing
+## Pisanie
 
-See the [Vue Docs Writing Guide](https://github.com/vuejs/vuejs.org/blob/master/writing-guide.md) for our rules and recommendations on writing and maintaining documentation.
+Zobacz [Vue Docs Writing Guide](https://github.com/vuejs/vuejs.org/blob/master/writing-guide.md)  by zapoznać się z naszymi zasadami i rekomendacjami na pisanie oraz utrzymanie dokumentacji.
 
-## Developing
+## Dewelopment
 
 ``` bash
 $ npm install
 $ npm start # dev server at http://localhost:4000
 ```
 
-## Deploying
+## Wdrażanie
 
-The site is automatically deployed when commits land in `master`, via [Netlify](https://www.netlify.com/).
+Ta strona jest wdrażana automatycznie po pojawieniu się nowego commita w gałęzi master, dzięki Netlify.
 
-If you are the maintainer of a community translation fork and would like to deploy via Netlify instead of GitHub pages, please ping @yyx990803 in an issue to request a Netlify team membership and DNS update.
+Jeżeli zarządzasz forkiem z tłumaczeniem społeczności i chciał(a)byś wdrożyć je z użyciem Netlify zamiast GitHub Pages, wywołaj @yyx990803 w zgłoszeniu, aby poprosić o członkowstwo w zespole Netlify i aktualizację DNS.
 
-## On Translations
+## Tłumaczenia
 
-Translations for this documentation project are currently maintained in separate repositories forked from this original one.
+Tłumaczenia dokumentacji dla tego projektu są obecnie przechowywane w oddzielnych repozytoriach, oddzielonych od repozytoriów oryginalnych.
 
-### Arabic
+### Arabski
 
-Arabic translation is maintained by [Interstellar Club](https://github.com/InterstellarClub)
+Arabskie tłumaczenie utrzymywane przez [Interstellar Club](https://github.com/InterstellarClub).
 
-* Translation Repo - [/interstellarClub/ar.vuejs.org](https://github.com/interstellarClub/ar.vuejs.org)
-* Primary Maintainers :
-    * [Ilyes Chouia](https://github.com/celyes)
-    * [Ahmed Aissaoui](https://github.com/Aissaoui-Ahmed)
+* Repozytorium tłumaczenia - [/interstellarClub/ar.vuejs.org](https://github.com/interstellarClub/ar.vuejs.org)
+* Główni opiekunowie:
+- [Ilyes Chouia](https://github.com/celyes)
+- [Ahmed Aissaoui](https://github.com/Aissaoui-Ahmed)
+    
+### Francuski
 
-### French
+Francuskie tłumaczenie utrzymywane jest przez Vuejs-FR.
 
-French translation is maintained by Vuejs-FR.
-* Translation Repo - [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
+* Repozytorium tłumaczenia — [/vuejs-fr/vuejs.org](https://github.com/vuejs-fr/vuejs.org)
 
-### Italian
+### Hiszpański
 
-* Translation Repo - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
+Tłumaczenie utrzymywane przez [1950Labs](https://1950labs.com) & [Vue.js Montevideo](https://www.meetup.com/Montevideo-Vue-JS-Meetup/)
 
-### Japanese
-
-Japanese translation is maintained by [Vue.js japan user group](https://github.com/vuejs-jp)
-
-* Translation Repo - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
-* Primary maintainer - [kazupon](https://github.com/kazupon)
-* Secondary Maintainers:
-    * [re-fort](https://github.com/re-fort)
-    * [potato4d](https://github.com/potato4d)
-    * [oohira](https://github.com/oohira)
-
-### Korean
-
-Korean translation is maintained by [Vue.js Korean User group](https://github.com/vuejs-kr).
-
-* Translation Repo - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
-* Primary maintainer - [ChangJoo Park](https://github.com/ChangJoo-Park)
-
-### Mandarin
-
-* Translation Repo - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
-
-### Persian (Farsi)
-
-Persian translation is maintained by VueJS-fa.
-
-* Translation Repo - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
-* Primary maintainer - [Pooya Parsa](https://github.com/pi0)
-
-### Português-Br
-
-Português-Br translation is maintained by [Vuejs-Br](https://github.com/vuejs-br).
-
-* Translation Repo - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
-
-### Russian
-
-Russian translation is maintained by Translation Gang.
-
-* Translation Repo - [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
-* Primary maintainer - [Grigoriy Beziuk](https://gbezyuk.github.io)
-
-### Spanish
-
-* Translation Repo - [/1950Labs/vuejs.org](https://github.com/1950Labs/vuejs.org)
-* Spanish translation is maintained by:
-
-[1950Labs](https://1950labs.com) & [Vue.js Montevideo](https://www.meetup.com/Montevideo-Vue-JS-Meetup/):
-
+* Repozytorium tłumaczenia - [/1950Labs/vuejs.org](https://github.com/1950Labs/vuejs.org)
+* Główni opiekunowie:
 - [Leonel More](https://github.com/leonelmore) | [Twitter](https://twitter.com/leonelmore)
 - [Sebastián Camacho](https://github.com/sxcamacho) | [Twitter](https://twitter.com/sxcamacho)
 - [Diana Rodríguez](https://github.com/alphacentauri82) | [Twitter](https://twitter.com/cotufa82)
@@ -104,18 +58,63 @@ Russian translation is maintained by Translation Gang.
 - [Pablo Kz](https://github.com/pabloKz)
 - [Leonardo Fagundez](https://github.com/lfgdzdev) | [Twitter](https://twitter.com/Lfgdz)
 
+### Japoński
 
-### Vietnamese
+Japońskie tłumaczenie utrzymywane jest przez [Vue.js japan user group](https://github.com/vuejs-jp).
 
-Vietnamese translation is maintained by [Vue.js Vietnam User group](https://github.com/vuejs-vn/).
+* Repozytorium tłumaczenia - [/vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org)
+* Główny opiekun - [kazupon](https://github.com/kazupon)
+* Pozostali opiekunowie:
+- [re-fort](https://github.com/re-fort)
+- [potato4d](https://github.com/potato4d)
+- [oohira](https://github.com/oohira)	
 
-* Translation Repo: [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
-* Primary maintainer - [phanan](https://github.com/phanan)
+### Koreański
 
-### Want to help with the translation?
+Koreańskie tłumaczenie utrzymywane jest przez [Vue.js Korean User group](https://github.com/vuejs-kr).
 
-If you feel okay with translating quite alone, you can fork the repo, post a comment on the [Community Translation Announcements](https://github.com/vuejs/vuejs.org/issues/2015) issue page to inform others that you're doing the translation and go for it.
+* Repozytorium tłumaczenia - [/vuejs-kr/kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
+* Główny opiekun - [ChangJoo Park](https://github.com/ChangJoo-Park)
 
-If you are more of a team player, Translation Gang might be for you. Let us know somehow that you're ready to join this international open-source translators community. Feel free to contact [Grigoriy Beziuk](https://gbezyuk.github.io) or anybody else from [the team](https://github.com/orgs/translation-gang/people).
+### Mandaryński
 
-And thank you in advance ;)
+* Repozytorium tłumaczenia - [/vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org)
+
+### Perski
+
+Perskie tłumaczenie utrzymywane jest przez VueJS-fa.
+
+* Repozytorium tłumaczenia - [/vuejs-fa/fa.vuejs.org](https://github.com/vuejs-fa/fa.vuejs.org)
+* Główny opiekun - [Pooya Parsa](https://github.com/pi0)
+
+### Portugalski/Brazylijski
+
+Portugalsko-Brazylijskie tłumaczenie utrzymywane jest przez [Vuejs-Br](https://github.com/vuejs-br).
+
+* Repozytorium tłumaczenia - [/vuejs-br/br.vuejs.org](https://github.com/vuejs-br/br.vuejs.org)
+
+### Rosyjski
+
+Rosyjskie tłumaczenie utrzymywane jest przez Translation Gang.
+
+* Repozytorium tłumaczenia — [/translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org)
+* Główny opiekun - [Grigoriy Beziuk](https://gbezyuk.github.io)
+
+### Wietnamski
+
+Wietnamskie tłumaczenie utrzymywane jest przez [Vue.js Vietnam User group](https://github.com/vuejs-vn/).
+
+* Repozytorium tłumaczenia — [/vuejs-vn/vuejs.org](https://github.com/vuejs-vn/vuejs.org)
+* Główny opiekun - [phanan](https://github.com/phanan)
+
+### Włoski
+
+* Repozytorium tłumaczenia - [/vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org)
+
+### Chcesz pomóc w tłumaczeniu?
+
+Jeśli czujesz się na siłach do samodzielego tłumaczenia, możesz zrobić fork repozytorium, utworzyć problem „work-in-progress” by poinformować innych o tym, że robisz tłumaczenie, i rozpocząć pracę.
+
+Jeśli dalej nie jesteś pewien(-na), lub masz jakieś inne pytania skontaktuj się z [Adrianem Barylskim](https://github.com/baryla), lub z członkiem organizacji [vuejs](https://github.com/vuejs)
+
+I z góry dziękujemy ;)
